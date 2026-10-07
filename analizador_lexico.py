@@ -1,4 +1,6 @@
-#!/usr/bin/env python3
+# Este trabajo fue realizado con apoyo en ChatGPT, un modelo de lenguaje desarrollado por OpenAI. 
+# Se utilizó para generar y refinar el código del analizador léxico para MiniPHP, además de proporcionar explicaciones conceptuales y sugerencias sobre la implementación.
+
 """Analizador Léxico para un MiniPHP — implementado con PLY (lex)."""
 
 import sys
